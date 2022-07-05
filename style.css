@@ -80,7 +80,7 @@ body {
   height : 400px;
   
   color: black;
-  background-image: url(file:///Users/nishan/Project44/city1.jpg);
+  background-image: url("city1.jpg");
   opacity: 0.8;
   position: relative;
   text-align: center;
